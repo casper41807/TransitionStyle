@@ -6,12 +6,18 @@
 //
 
 import UIKit
+import WebKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var webView: WKWebView!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        let url = URL(string:"https://www.youtube.com/watch?v=kBpc2EaKBcA&t=4splaysinline=1")!
+            let request = URLRequest(url: url)
+                webView.load(request)
     }
 
 

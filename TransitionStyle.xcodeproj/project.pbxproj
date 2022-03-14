@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2202257327DF380700FFEE5F /* HeroTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2202257227DF380700FFEE5F /* HeroTableViewController.swift */; };
 		22D9649127D9CFF200B8AB79 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D9649027D9CFF200B8AB79 /* AppDelegate.swift */; };
 		22D9649327D9CFF200B8AB79 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D9649227D9CFF200B8AB79 /* SceneDelegate.swift */; };
 		22D9649527D9CFF200B8AB79 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D9649427D9CFF200B8AB79 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2202257227DF380700FFEE5F /* HeroTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroTableViewController.swift; sourceTree = "<group>"; };
 		22D9648D27D9CFF200B8AB79 /* TransitionStyle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TransitionStyle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		22D9649027D9CFF200B8AB79 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		22D9649227D9CFF200B8AB79 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				22D9649027D9CFF200B8AB79 /* AppDelegate.swift */,
 				22D9649227D9CFF200B8AB79 /* SceneDelegate.swift */,
+				2202257227DF380700FFEE5F /* HeroTableViewController.swift */,
 				22D9649427D9CFF200B8AB79 /* ViewController.swift */,
 				22D9649627D9CFF200B8AB79 /* Main.storyboard */,
 				22D9649927D9CFF200B8AB79 /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				22D9649527D9CFF200B8AB79 /* ViewController.swift in Sources */,
+				2202257327DF380700FFEE5F /* HeroTableViewController.swift in Sources */,
 				22D9649127D9CFF200B8AB79 /* AppDelegate.swift in Sources */,
 				22D9649327D9CFF200B8AB79 /* SceneDelegate.swift in Sources */,
 			);
