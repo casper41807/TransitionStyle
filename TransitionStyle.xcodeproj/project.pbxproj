@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		2202257327DF380700FFEE5F /* HeroTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2202257227DF380700FFEE5F /* HeroTableViewController.swift */; };
+		226D213C27E03E9700ED2DC7 /* Hero2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 226D213B27E03E9700ED2DC7 /* Hero2ViewController.swift */; };
+		226D213E27E03EC000ED2DC7 /* Hero3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 226D213D27E03EC000ED2DC7 /* Hero3ViewController.swift */; };
+		226D214027E03ECB00ED2DC7 /* Hero4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 226D213F27E03ECB00ED2DC7 /* Hero4ViewController.swift */; };
 		22D9649127D9CFF200B8AB79 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D9649027D9CFF200B8AB79 /* AppDelegate.swift */; };
 		22D9649327D9CFF200B8AB79 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D9649227D9CFF200B8AB79 /* SceneDelegate.swift */; };
 		22D9649527D9CFF200B8AB79 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D9649427D9CFF200B8AB79 /* ViewController.swift */; };
@@ -18,6 +21,9 @@
 
 /* Begin PBXFileReference section */
 		2202257227DF380700FFEE5F /* HeroTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroTableViewController.swift; sourceTree = "<group>"; };
+		226D213B27E03E9700ED2DC7 /* Hero2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hero2ViewController.swift; sourceTree = "<group>"; };
+		226D213D27E03EC000ED2DC7 /* Hero3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hero3ViewController.swift; sourceTree = "<group>"; };
+		226D213F27E03ECB00ED2DC7 /* Hero4ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hero4ViewController.swift; sourceTree = "<group>"; };
 		22D9648D27D9CFF200B8AB79 /* TransitionStyle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TransitionStyle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		22D9649027D9CFF200B8AB79 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		22D9649227D9CFF200B8AB79 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +68,9 @@
 				22D9649227D9CFF200B8AB79 /* SceneDelegate.swift */,
 				2202257227DF380700FFEE5F /* HeroTableViewController.swift */,
 				22D9649427D9CFF200B8AB79 /* ViewController.swift */,
+				226D213B27E03E9700ED2DC7 /* Hero2ViewController.swift */,
+				226D213D27E03EC000ED2DC7 /* Hero3ViewController.swift */,
+				226D213F27E03ECB00ED2DC7 /* Hero4ViewController.swift */,
 				22D9649627D9CFF200B8AB79 /* Main.storyboard */,
 				22D9649927D9CFF200B8AB79 /* Assets.xcassets */,
 				22D9649B27D9CFF200B8AB79 /* LaunchScreen.storyboard */,
@@ -141,8 +150,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				226D213C27E03E9700ED2DC7 /* Hero2ViewController.swift in Sources */,
 				22D9649527D9CFF200B8AB79 /* ViewController.swift in Sources */,
+				226D213E27E03EC000ED2DC7 /* Hero3ViewController.swift in Sources */,
 				2202257327DF380700FFEE5F /* HeroTableViewController.swift in Sources */,
+				226D214027E03ECB00ED2DC7 /* Hero4ViewController.swift in Sources */,
 				22D9649127D9CFF200B8AB79 /* AppDelegate.swift in Sources */,
 				22D9649327D9CFF200B8AB79 /* SceneDelegate.swift in Sources */,
 			);
